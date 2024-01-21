@@ -14,7 +14,7 @@
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
             "outputPath": "dist/cooking",
-            "index": "src/index.html",
+            "index": "dist/cooking/index.html",
             "main": "src/main.ts",
             "polyfills": [
               "zone.js"
